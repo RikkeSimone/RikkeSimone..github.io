@@ -1,1 +1,1 @@
-# RikkeSimone..github.io
+# RikkeSimone.github.io
