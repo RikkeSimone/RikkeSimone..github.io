@@ -86,7 +86,7 @@ a:hover {
   @media only screen and (min-width: 1200px) {
     .menu {width: 50%}
     .content {width: 50%} 
-    .imgframe {width: 100%}
-    .img {width: 100%}    
+    .imgframe {width: 50%}
+    .img {width: 50%}    
   }
       </style>
